@@ -1,1 +1,1 @@
-# TripMate-AI---A-Multi-Agent-Travell-Planner-
+# TripMate-AI - A Multi Agent Travel Planner 
